@@ -14,7 +14,7 @@ a{
   color: inherit;
 }
 .container{
-  max-width: 11400px;
+  max-width: 1140px;
   margin: 0 auto;
   padding: 0 10px;
 }
@@ -73,4 +73,10 @@ a{
   line-height: 130%;
   text-align: center;
   margin-bottom: auto;
+}
+.header__descr{
+  font-weight: 700;
+  font-size: 20px;
+  max-width: 420px;
+  margin-bottom: 20px;
 }
