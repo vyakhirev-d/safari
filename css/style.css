@@ -80,3 +80,12 @@ a{
   max-width: 420px;
   margin-bottom: 20px;
 }
+.header__btn{
+  display: inline-block;
+  font-size: 20px;
+  color: #fff;
+  padding: 19px 55px 20px;
+  background-color: #886239;
+  border-radius: 30px;
+  margin-bottom: 20px;
+}
