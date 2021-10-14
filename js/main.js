@@ -23,4 +23,9 @@ $(function(){
 			preload: [0,1]
 		}		
 	});
+  
+  $('.menu__btn').on('click', function(){
+    $('.menu__list').toggClass('menu__list--active');
+  });
+  
 });
